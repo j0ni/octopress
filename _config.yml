@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://blog.j0ni.ca
-title: specificity
-subtitle: all abstractions are lies
+title: Untitled
+subtitle: Words, on the Internet
 author: Jonathan Irving
 simple_search: http://google.com/search
 description:
@@ -89,7 +89,7 @@ delicious_user: kwaichangcaine
 delicious_count: 5
 
 # Disqus Comments
-disqus_short_name: j0ni
+disqus_short_name: 
 disqus_show_comment_count: false
 
 # Google Analytics
