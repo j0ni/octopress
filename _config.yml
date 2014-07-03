@@ -19,7 +19,7 @@ date_format: "%b %e, %Y at %R"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: blog@j0ni.ca
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -70,9 +70,9 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_user: j0ni
+twitter_tweet_count: 5
+twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: false
